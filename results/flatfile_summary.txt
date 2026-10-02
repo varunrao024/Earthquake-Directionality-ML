@@ -1,0 +1,282 @@
+Rows: 21540
+Columns: 274
+
+Record Sequence Number
+EQID
+Earthquake Name
+YEAR
+MODY
+HRMN
+Station Name
+Station Sequence Number
+Station ID  No.
+Earthquake Magnitude
+Magnitude Type
+Magnitude Uncertainty: Kagan Model
+Magnitude Uncertainty: Statistical
+Magnitude Sample Size
+Magnitude Uncertainty: Study Class
+Mo (dyne.cm)
+Strike (deg)
+Dip (deg)
+Rake Angle (deg)
+Mechanism Based on Rake Angle
+P-plunge (deg)
+P-trend (deg)
+T-plunge (deg)
+T-trend (deg)
+Hypocenter Latitude (deg)
+Hypocenter Longitude (deg)
+Hypocenter Depth (km)
+Coseismic Surface Rupture: 1=Yes; 0=No;    -999=Unknown
+Coseismic Surface Rupture (Including Inferred)
+Basis for Inference of Surface Rupture
+Finite Rupture Model: 1=Yes;  0=No
+Depth to Top Of Fault Rupture Model
+Fault Rupture Length for Calculation of Ry (km)
+Fault Rupture Width (km)
+Fault Rupture Area (km^2)
+Avg Fault Disp (cm)
+Rise Time (s)
+Avg Slip Velocity (cm/s)
+Static Stress Drop (bars)
+Preferred Rupture Velocity (km/s)
+Average Vr/Vs
+Percent of Moment Release in the Top 5 Km of Crust
+Existence of Shallow Asperity: 0=No; 1=Yes
+Depth to Top of Shallowest Asperity (km)
+Earthquake in Extensional Regime: 1=Yes; 0=No
+Fault Name
+Slip Rate (mm/Yr)
+EpiD (km)
+HypD (km)
+Joyner-Boore Dist. (km)
+Campbell R Dist. (km)
+RmsD (km)
+ClstD (km)
+Rx
+FW/HW Indicator
+Source to Site Azimuth (deg)
+X
+Theta.D (deg)
+SSGA (Strike Slip)
+Y
+Phi.D (deg)
+SSGA (Dip Slip)
+s
+d
+ctildepr
+Unused Column
+D
+Rfn.Hyp
+Rfp.Hyp
+Unused Column.1
+Unused Column.2
+Unused Column.3
+T
+GMX's C1
+GMX's C2
+GMX's C3
+Campbell's GEOCODE
+Bray and Rodriguez-Marek SGS
+Depth
+Preferred NEHRP Based on Vs30
+Vs30 (m/s) selected for analysis
+Column Not Used
+Measured/Inferred Class
+Sigma of Vs30 (in natural log Units)
+NEHRP Classification from CGS's Site Condition Map
+Geological Unit
+Geology
+Owner
+Station Latitude
+Station Longitude
+STORIES
+INSTLOC
+Depth to Basement Rock
+Site Visited
+NGA Type
+Age
+Grain Size
+Depositional History
+Northern CA/Southern CA - H11 Z1 (m)
+Northern CA/Southern CA - H11 Z1.5 (m)
+Northern CA/Southern CA - H11 Z2.5 (m)
+Northern CA/Southern CA - S4 Z1 (m)
+Northern CA/Southern CA - S4 Z1.5 (m)
+Northern CA/Southern CA - S4 Z2.5 (m)
+Depth to Franciscan Rock (km)
+Basin
+h (m)
+hnorm (m)
+Rsbe (m)
+Rcebe (m)
+Rebe (m)
+Rsbe1 (m)
+File Name (Horizontal 1)
+File Name (Horizontal 2)
+File Name (Vertical)
+H1 azimth (degrees)
+H2 azimith (degrees)
+Type of Recording
+Instrument Model
+PEA Processing Flag
+Type of Filter
+npass
+nroll
+HP-H1 (Hz)
+HP-H2 (Hz)
+LP-H1 (Hz)
+LP-H2 (Hz)
+Factor
+Lowest Usable Freq - H1 (Hz)
+Lowest Usable Freq - H2 (H2)
+Lowest Usable Freq - Ave. Component (Hz)
+PGA (g)
+PGV (cm/sec)
+PGD (cm)
+T0.010S
+T0.020S
+T0.022S
+T0.025S
+T0.029S
+T0.030S
+T0.032S
+T0.035S
+T0.036S
+T0.040S
+T0.042S
+T0.044S
+T0.045S
+T0.046S
+T0.048S
+T0.050S
+T0.055S
+T0.060S
+T0.065S
+T0.067S
+T0.070S
+T0.075S
+T0.080S
+T0.085S
+T0.090S
+T0.095S
+T0.100S
+T0.110S
+T0.120S
+T0.130S
+T0.133S
+T0.140S
+T0.150S
+T0.160S
+T0.170S
+T0.180S
+T0.190S
+T0.200S
+T0.220S
+T0.240S
+T0.250S
+T0.260S
+T0.280S
+T0.290S
+T0.300S
+T0.320S
+T0.340S
+T0.350S
+T0.360S
+T0.380S
+T0.400S
+T0.420S
+T0.440S
+T0.450S
+T0.460S
+T0.480S
+T0.500S
+T0.550S
+T0.600S
+T0.650S
+T0.667S
+T0.700S
+T0.750S
+T0.800S
+T0.850S
+T0.900S
+T0.950S
+T1.000S
+T1.100S
+T1.200S
+T1.300S
+T1.400S
+T1.500S
+T1.600S
+T1.700S
+T1.800S
+T1.900S
+T2.000S
+T2.200S
+T2.400S
+T2.500S
+T2.600S
+T2.800S
+T3.000S
+T3.200S
+T3.400S
+T3.500S
+T3.600S
+T3.800S
+T4.000S
+T4.200S
+T4.400S
+T4.600S
+T4.800S
+T5.000S
+T5.500S
+T6.000S
+T6.500S
+T7.000S
+T7.500S
+T8.000S
+T8.500S
+T9.000S
+T9.500S
+T10.000S
+T11.000S
+T12.000S
+T13.000S
+T14.000S
+T15.000S
+T20.000S
+Ave Strike (deg)
+TYPE(CRjb = 0)
+CRjb
+TYPE
+(CRjb = 2)
+CRjb.1
+TYPE
+(CRjb = 5)
+CRjb.2
+TYPE
+(CRjb = 10)
+CRjb.3
+TYPE
+(CRjb = 20)
+CRjb.4
+TYPE
+(CRjb = 40)
+CRjb.5
+U
+IDPv4
+XCI
+XCI1
+Damping (%)
+RotD percentile
+Instrument Nat. Freq.
+Instrument Damping
+Instrument Type
+Quality_Flag
+Spectra Quality Flag
+Late S-trigger
+Late P-trigger
+Idirectivity
+Tp
+Ry 2
